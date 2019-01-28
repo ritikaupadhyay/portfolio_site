@@ -37,8 +37,8 @@ I am an MIS graduate student at the University of Illinois at Chicago with 2 yea
 <i class="fas fa-code-branch"></i> Experienced with using statistical models and ML algorithms to solve real-world problems, and building dashboards to report context-driven insights from data to
 help businesses answer questions and make decisions.<br/>
 
-<i class="fas fa-code-branch"></i> At ease with managing multiple responsibilties in a fast-paced environment.<br/>
+<i class="fas fa-code-branch"></i> At ease with managing multiple responsibilities in a fast-paced environment.<br/>
  
-<i class="fas fa-code-branch"></i> Demonstrated success partnering cross functionally and presenting to all levels of leadership.<br/>
+<i class="fas fa-code-branch"></i> Demonstrated success partnering cross-functionally and presenting to all levels of leadership.<br/>
 
 I'm actively looking for data science positions where I can leverage my skills.

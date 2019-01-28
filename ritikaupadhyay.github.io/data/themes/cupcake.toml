@@ -9,7 +9,10 @@ dark = true
 #accent color you'll see everywhere
 primary = "#B58292"
 
+#accent color in light mode
 primary_light = "#F793B5"
+
+#accent color in dark mode
 primary_dark = "#F793B5"
 
 # Menu
@@ -26,5 +29,5 @@ menu_text_active = "#fff"
 menu_title = "#F1E4E8"
 
 # Home sections, no idea
-home_section_odd = "#7f497b"
-home_section_even = "#7f497b"
+home_section_odd = "#272935"
+home_section_even = "#272935"
