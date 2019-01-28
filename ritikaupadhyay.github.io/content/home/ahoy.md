@@ -16,7 +16,7 @@ weight = 60
 +++
 
 I am a prolific reader and writer <br/>
-who loves books, drawing with charcoal;<br/>
+who loves books and drawing with charcoal;<br/>
 I've held a lifelong fascination for good design.<br/>
 <br/>
 
