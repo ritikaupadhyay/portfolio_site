@@ -1,0 +1,30 @@
+# Theme metadata
+name = "Cupcake"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+
+#accent color you'll see everywhere
+primary = "#B58292"
+
+primary_light = "#F793B5"
+primary_dark = "#F793B5"
+
+# Menu
+# The solid bar of color in the bckground for the menu nav bar
+menu_primary = "#C97C93"
+
+#default menu color when not hovering
+menu_text = "#F1E4E8"
+
+#color when the text is active
+menu_text_active = "#fff"
+
+#My name/name of the site
+menu_title = "#F1E4E8"
+
+# Home sections, no idea
+home_section_odd = "#7f497b"
+home_section_even = "#7f497b"
