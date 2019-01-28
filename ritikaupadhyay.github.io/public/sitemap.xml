@@ -4,80 +4,56 @@
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/talk/example/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/project/statistical-analysis-of-factors-influencing-whatsapp-usage-among-healthcare-professionals-in-india/</loc>
+      <lastmod>2018-05-27T00:00:00-05:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/project/statistical-analysis-of-e-visit-availability-among-respondents-to-minnesota-hit-clinic-survey-2016/</loc>
+      <lastmod>2018-05-27T00:00:00-05:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/project/statistical-analysis-of-patient-centric-hie-among-respondents-to-2015-aha-annual-survey-its-mar18-april18/</loc>
+      <lastmod>2018-03-27T00:00:00-05:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/project/weekly-tableau-challenges/</loc>
+      <lastmod>2018-02-27T00:00:00-06:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/post/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/2016/04/20/post-title/</loc>
+      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/2016/04/20/academic-the-website-designer-for-hugo/</loc>
-      <lastmod>2018-01-13T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ritikaupadhyay.github.io/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ritikaupadhyay.github.io/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ritikaupadhyay.github.io/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -85,8 +61,7 @@
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -94,8 +69,8 @@
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/project/</loc>
+      <lastmod>2018-05-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -103,7 +78,7 @@
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/categories/</loc>
+      <loc>http://localhost:1313/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -111,8 +86,8 @@
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/tags/r/</loc>
+      <lastmod>2018-03-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -120,8 +95,8 @@
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/</loc>
+      <lastmod>2017-10-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -129,8 +104,8 @@
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/tags/spss/</loc>
+      <lastmod>2018-05-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -138,8 +113,8 @@
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/tags/</loc>
+      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -147,8 +122,8 @@
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/tags/healthcare/</loc>
+      <lastmod>2018-05-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -156,23 +131,8 @@
     
     <url>
     
-      <loc>https://ritikaupadhyay.github.io/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ritikaupadhyay.github.io/slides/example-slides/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ritikaupadhyay.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+05:30</lastmod>
+      <loc>http://localhost:1313/tags/tableau/</loc>
+      <lastmod>2018-02-27T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     

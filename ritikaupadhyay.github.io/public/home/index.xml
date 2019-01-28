@@ -2,142 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Ritika Upadhyay</title>
-    <link>https://ritikaupadhyay.github.io/home/</link>
+    <link>http://localhost:1313/home/</link>
     <description>Recent content in Homes on Ritika Upadhyay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ritika Upadhyay &amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://ritikaupadhyay.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://ritikaupadhyay.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
+      <link>http://localhost:1313/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/hero_carousel/</guid>
+      <guid>http://localhost:1313/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://ritikaupadhyay.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
+      <link>http://localhost:1313/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/hero/</guid>
+      <guid>http://localhost:1313/home/hero/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ritikaupadhyay.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <link>http://localhost:1313/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/about/</guid>
-      <description>Biography  experience bull points highlights: Built and grew Technology and Product organization that was responsible for the complete Technology and Product stack
- uncertainty  challenges learning-on-the-go
-She is a business-minded individual insight thorugh research and data analytics to help answer questions and make decisions big and small. data driven and context driven approach Why? People. impact. lives.
-why should I hire you #1 why should I hire you #2 hands-on experience of both quantitative and qualitative analysis, data mining, optimization and database operations, proficient in R, SQL, Hadoop,  SAS, SAS Enterprise Miner, JMP, Matlab, Minitab, Stata Strong communication, presentation and project management skills</description>
+      <guid>http://localhost:1313/home/about/</guid>
+      <description>Biography I am an MIS graduate student at the University of Illinois at Chicago with 2 years of work experience at Deloitte in the US Public Sector Healthcare domain.  Experienced with using statistical models and ML algorithms to solve real-world problems, and building dashboards to report context-driven insights from data to help businesses answer questions and make decisions.
+ At ease with managing multiple responsibilties in a fast-paced environment.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>https://ritikaupadhyay.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
+      <link>http://localhost:1313/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>https://ritikaupadhyay.github.io/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ritikaupadhyay.github.io/home/experience/</guid>
+      <guid>http://localhost:1313/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://ritikaupadhyay.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <link>http://localhost:1313/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/publications_selected/</guid>
+      <guid>http://localhost:1313/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://ritikaupadhyay.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <link>http://localhost:1313/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/projects/</guid>
+      <guid>http://localhost:1313/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://ritikaupadhyay.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <link>http://localhost:1313/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/publications/</guid>
+      <guid>http://localhost:1313/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>https://ritikaupadhyay.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <link>http://localhost:1313/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/talks_selected/</guid>
+      <guid>http://localhost:1313/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://ritikaupadhyay.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <link>http://localhost:1313/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://ritikaupadhyay.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://ritikaupadhyay.github.io/home/posts/</guid>
+      <guid>http://localhost:1313/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://ritikaupadhyay.github.io/home/accomplishments/</link>
+      <link>http://localhost:1313/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/accomplishments/</guid>
+      <guid>http://localhost:1313/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tags</title>
-      <link>https://ritikaupadhyay.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
+      <title>Fun</title>
+      <link>http://localhost:1313/home/ahoy/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/tags/</guid>
+      <guid>http://localhost:1313/home/ahoy/</guid>
+      <description>I am a prolific reader and writer  who loves books, drawing with charcoal; I&amp;rsquo;ve held a lifelong fascination for good design. 
+I have a deep interest in philosophy, mental models &amp;amp; cognitive biases.  I love naps and good food but most of all, my beagle pup Hagrid. 
+I am always working towards being a better version of myself and seek professional and personal relationships that encourage growth.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://localhost:1313/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://ritikaupadhyay.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <link>http://localhost:1313/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ritikaupadhyay.github.io/home/contact/</guid>
+      <guid>http://localhost:1313/home/contact/</guid>
       <description></description>
     </item>
     

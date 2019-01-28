@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Ritika Upadhyay</title>
-    <link>http://localhost:1313/project/</link>
-    <description>Recent content in Projects on Ritika Upadhyay</description>
+    <title>healthcare on Ritika Upadhyay</title>
+    <link>http://localhost:1313/tags/healthcare/</link>
+    <description>Recent content in healthcare on Ritika Upadhyay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ritika Upadhyay &amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 27 May 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,15 +37,6 @@
       
       <guid>http://localhost:1313/project/statistical-analysis-of-patient-centric-hie-among-respondents-to-2015-aha-annual-survey-its-mar18-april18/</guid>
       <description>Assessment of patient engagement functionalities offered by hospitals across the US per the survey, with a focus on features offered to patients to access and manage their health records and the mechanisms available for doing so.  Some key findings: ● Government and non-profit hospitals tend to offer their patients more features for managing their healthcare information. ● The extent to which a hospital shared information with other hospitals &amp;amp; clinics within and outside its network had a significant bearing on the extent of facilities offered.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Tableau Challenges</title>
-      <link>http://localhost:1313/project/weekly-tableau-challenges/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 -0600</pubDate>
-      
-      <guid>http://localhost:1313/project/weekly-tableau-challenges/</guid>
-      <description></description>
     </item>
     
   </channel>

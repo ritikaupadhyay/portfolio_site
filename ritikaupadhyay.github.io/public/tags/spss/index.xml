@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Ritika Upadhyay</title>
-    <link>http://localhost:1313/project/</link>
-    <description>Recent content in Projects on Ritika Upadhyay</description>
+    <title>SPSS on Ritika Upadhyay</title>
+    <link>http://localhost:1313/tags/spss/</link>
+    <description>Recent content in SPSS on Ritika Upadhyay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ritika Upadhyay &amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 27 May 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/spss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,24 +28,6 @@
       
       <guid>http://localhost:1313/project/statistical-analysis-of-e-visit-availability-among-respondents-to-minnesota-hit-clinic-survey-2016/</guid>
       <description>Used logistic regression to assess which factors distinguish clinics in MN that offer patients e-Visit facilities, and the extent to which they do. Some key findings: ● Primary-care clinics are more likely to offer e-Visits than specialist clinics  ● Facilities that use Epic EHR systems are significantly likely to offer e-Visit facilities</description>
-    </item>
-    
-    <item>
-      <title>Statistical Analysis of Patient-Centric HIE among Respondents to 2015 AHA Annual Survey ITS, Mar’18 – April’18</title>
-      <link>http://localhost:1313/project/statistical-analysis-of-patient-centric-hie-among-respondents-to-2015-aha-annual-survey-its-mar18-april18/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 -0500</pubDate>
-      
-      <guid>http://localhost:1313/project/statistical-analysis-of-patient-centric-hie-among-respondents-to-2015-aha-annual-survey-its-mar18-april18/</guid>
-      <description>Assessment of patient engagement functionalities offered by hospitals across the US per the survey, with a focus on features offered to patients to access and manage their health records and the mechanisms available for doing so.  Some key findings: ● Government and non-profit hospitals tend to offer their patients more features for managing their healthcare information. ● The extent to which a hospital shared information with other hospitals &amp;amp; clinics within and outside its network had a significant bearing on the extent of facilities offered.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Tableau Challenges</title>
-      <link>http://localhost:1313/project/weekly-tableau-challenges/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 -0600</pubDate>
-      
-      <guid>http://localhost:1313/project/weekly-tableau-challenges/</guid>
-      <description></description>
     </item>
     
   </channel>
